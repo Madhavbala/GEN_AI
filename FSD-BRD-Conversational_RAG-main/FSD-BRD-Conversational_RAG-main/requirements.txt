@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain_chroma
+langchain_community
+langchain_core
+langchain_groq
+langchain_huggingface
+langchain_text_splitters
+dotenv
+pandas
+openai
+chromadb
+openpyxl
